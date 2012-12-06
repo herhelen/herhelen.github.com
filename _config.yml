@@ -1,0 +1,6 @@
+name: "Helen Her"
+description: "Helen Her's blog"
+comments: true
+safe: true
+pygments: true
+paginate: 10
