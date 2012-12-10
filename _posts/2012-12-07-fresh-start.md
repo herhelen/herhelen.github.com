@@ -1,11 +1,10 @@
 ---
-layout: post
-title: Fresh Start?
+layout: default
+title: "Fresh Start?"
+date: "2012-12-07"
 author: "Helen Her"
 ---
-
-{{ page.title }}
-
+<h1> {{ page.title }} </h1>
 
 After moving from blogspot to wordpress and trying to write regularly. But I failed in the last part.
 
