@@ -1,7 +1,17 @@
 ---
 layout: default
 ---
-
 <div id="post">
+  <h1> {{ page.title }} </h1>
+  <p> {{ page.date | date_to_string }} </p>
   {{ content }}
+</div>
+<div id="post-footer">
+  Posted by {{ page.author | join("\n") }}. 
+ {% if page.categories == null %}
+  Categories: {{ page.categories | join("\n") }} 
+ {% endif %}
+ {% if page.tags == null %}
+  Tags: {{ page.tags | join("\n") }}
+ {% endif %}
 </div>

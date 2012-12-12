@@ -54,7 +54,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:650px;
   margin:0 auto;
 }
 
@@ -104,9 +104,10 @@ img {
 }
 
 header {
-  width:270px;
+  width:160px;
   float:left;
   position:fixed;
+  text-align:right;
 }
 
 header ul {
@@ -192,7 +193,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:450px;
   float:right;
   padding-bottom:50px;
 }
@@ -209,14 +210,14 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:160px;
   float:left;
   position:fixed;
   bottom:50px;
+  text-align:right;
 }
 
 @media print, screen and (max-width: 960px) {
-  
   div.wrapper {
     width:auto;
     margin:0;
