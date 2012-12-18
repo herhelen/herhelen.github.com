@@ -1,0 +1,73 @@
+---
+layout: post
+title: "Freya Lin - 5 days some years"
+date: "2011-03-31"
+author: "Helen Her"
+---
+### 林凡 - 五天幾年 ###
+
+When I heard this song, I thought it's sad.  
+It's really a miracle when you love someone and be love by that same person.  
+
+This song represents when you're in love, but then later, the love you both used to have is gone, what you can do if you still in love with him?  
+And worse if you've got hurt because he just can't decide between you and his new girlfriend.  
+
+[youtube] (http://www.youtube.com/watch?v=eTUra6dtnQI?rel=0&amp;w=500&amp;h=320)
+
+也許在你心裡夢是自己的   
+Maybe in your mind that dream is only yours  
+
+可是在我心裡夢是我們的  
+But in my mind that dream belongs to us  
+
+你說你要自由我給你自由  
+You said you want to be free and I set you free  
+
+你說你要安靜我安靜的像宇宙  
+You said you want yo be quiet and I’m quiet like the universe  
+
+如果說這是愛 醒來好像夢一場  
+If this is love it’s like I woke up from a dream  
+
+如果說這是愛 我情願去流浪  
+If this is love I prefer to wander  
+
+如果說這是愛 請你鬆開我肩膀   
+If this is love please release my shoulder  
+
+如果說這是愛 靜靜的 等天亮  
+If this is love quietly I wait for the daybreak  
+
+看你露出微笑像個小孩子  
+When you laugh looks like a child  
+
+看你不再彷徨 也不再祈禱  
+You’re not lost anymore don’t pray anymore  
+
+曾經覺得你是曾經那個你   
+Once I thought you’re the old you  
+
+曾經覺得自己比誰都瞭解愛  
+Once I thought I understand love more than anyone  
+
+眼看著雨   
+I see the rain  
+
+眼看著雨點   
+I see the raindrop  
+
+眼看著雨點落在了心裡  
+I saw the raindrop fell into my heart  
+
+如果說這是愛 愛你好像是夢一場  
+If this is love it’s like I woke up from a dream  
+
+如果說這是愛 我情願被遺忘  
+If this is love I prefer to be forgotten  
+
+如果說這是愛 請你鬆開我肩膀  
+If this is love please release my shoulder  
+
+如果說這是愛 等著你到天亮  
+If this is love quietly I wait for you until the daybreak  
+
